@@ -90,22 +90,23 @@ export default function HeroSection() {
             </div>
           </div>
 
-          <div className="relative">
+          <div className="relative mb-20">
             <div className="absolute -inset-4 bg-primary/20 rounded-full blur-3xl opacity-30 animate-pulse"></div>
             <div className="relative bg-white p-4 rounded-2xl shadow-xl rotate-3 transform hover:rotate-0 transition-transform duration-500">
               <Image
                 src={hero.image || "/placeholder.svg"}
                 alt="Enactus Alexandria in action"
-                width={600}
-                height={600}
-                className="rounded-xl w-full h-auto object-cover"
+                width={`600`}
+                height={`600`}
+                className="rounded-xl w-full md:h-[500px]  object-cover"
               />
             </div>
-            <div className="absolute -bottom-10 -left-10 p-4 bg-white rounded-xl shadow-lg -rotate-6 transform hover:rotate-0 transition-transform duration-500 z-10 max-w-[200px]">
+            <div className="absolute -bottom-16 left-5  md:-bottom-10 md:left-10 lg:-left-10 p-4 bg-white rounded-xl shadow-lg -rotate-6 transform hover:rotate-0 transition-transform duration-500 z-10 max-w-[200px]">
               <p className="text-sm font-medium">"{hero.testimonial.quote}"</p>
               <p className="text-xs text-muted-foreground mt-2">— {hero.testimonial.author}</p>
             </div>
           </div>
+
         </div>
       </div>
     </section>
