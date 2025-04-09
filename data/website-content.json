@@ -1,0 +1,612 @@
+{
+  "seo": {
+    "global": {
+      "siteName": "Enactus Alexandria University",
+      "titleTemplate": "%s | Enactus Alexandria University",
+      "defaultTitle": "Enactus Alexandria University - Entrepreneurial Action for Social Impact",
+      "defaultDescription": "Enactus Alexandria University empowers students to use innovation and business principles to create sustainable solutions for a better world.",
+      "defaultKeywords": "enactus, alexandria university, entrepreneurship, social impact, student organization, community development",
+      "siteUrl": "https://enactusalex.org",
+      "twitterHandle": "@EnactusAlex",
+      "locale": "en_US",
+      "themeColor": "#0074E5",
+      "favicon": "/favicon.ico"
+    },
+    "pages": {
+      "home": {
+        "title": "Entrepreneurial Action for Social Impact",
+        "description": "Enactus Alexandria University empowers students to use innovation and business principles to create sustainable solutions for a better world.",
+        "keywords": "enactus, alexandria university, entrepreneurship, social impact, student organization",
+        "ogImage": "/images/og-home.jpg"
+      },
+      "about": {
+        "title": "Our Story",
+        "description": "Learn about the history, mission, and values of Enactus Alexandria University and our journey of creating positive change through entrepreneurial action.",
+        "keywords": "enactus history, about enactus, alexandria university, mission, values",
+        "ogImage": "/images/og-about.jpg"
+      },
+      "team": {
+        "title": "Our Team",
+        "description": "Meet the passionate individuals behind Enactus Alexandria University who are driving change through entrepreneurial action.",
+        "keywords": "enactus team, leadership, members, faculty advisors, student leaders",
+        "ogImage": "/images/og-team.jpg"
+      },
+      "events": {
+        "title": "Events",
+        "description": "Stay updated with the latest events, workshops, and activities organized by Enactus Alexandria University.",
+        "keywords": "enactus events, workshops, conferences, networking, entrepreneurship events",
+        "ogImage": "/images/og-events.jpg"
+      },
+      "join": {
+        "title": "Join Our Team",
+        "description": "Become part of a community of changemakers who are using entrepreneurial action to create a better world.",
+        "keywords": "join enactus, apply, volunteer, student organization, membership",
+        "ogImage": "/images/og-join.jpg"
+      },
+      "contact": {
+        "title": "Contact Us",
+        "description": "Get in touch with Enactus Alexandria University for inquiries, partnerships, or to learn more about our initiatives.",
+        "keywords": "contact enactus, get in touch, inquiries, partnerships, location",
+        "ogImage": "/images/og-contact.jpg"
+      }
+    }
+  },
+  "meta": {
+    "title": "Enactus Alexandria University",
+    "description": "Entrepreneurial action for social impact at Alexandria University"
+  },
+  "navigation": {
+    "links": [
+      { "name": "Home", "path": "/" },
+      { "name": "About", "path": "/about" },
+      { "name": "2025 Project", "path": "/#project" },
+      { "name": "Events", "path": "/events" },
+      { "name": "Team", "path": "/team" },
+      { "name": "Join Us", "path": "/join" },
+      { "name": "Contact", "path": "/contact" }
+    ],
+    "logo": "/images/logo.png"
+  },
+  "home": {
+    "hero": {
+      "title": "Transforming Lives Through Entrepreneurial Action",
+      "subtitle": "Enactus Alexandria University empowers students to use innovation and business principles to create sustainable solutions for a better world.",
+      "stats": [{ "number": "100+", "label": "Active Members" }, { "number": "15+", "label": "Impact Projects" }],
+      "buttons": [
+        { "text": "Join Our Team", "link": "/join", "primary": true }
+      ],
+      "image": "/placeholder.svg?height=600&width=600",
+      "testimonial": {
+        "quote": "Enactus gave me the opportunity to make real impact while developing my skills.",
+        "author": "Sarah, Team Member"
+      }
+    },
+    "mission": {
+      "title": "Our Mission & Vision",
+      "description": "We believe entrepreneurial action can solve the world's toughest challenges. Through Enactus, students use innovation and business principles to improve the world.",
+      "values": [
+        {
+          "title": "Innovation",
+          "description": "We foster creative thinking and innovative solutions to address social challenges through entrepreneurial action.",
+          "icon": "Lightbulb"
+        },
+        {
+          "title": "Collaboration",
+          "description": "We bring together diverse talents and perspectives to create powerful teams that drive meaningful change.",
+          "icon": "Users"
+        },
+        {
+          "title": "Global Impact",
+          "description": "We create sustainable solutions that address local challenges while contributing to global development goals.",
+          "icon": "Globe"
+        },
+        {
+          "title": "Sustainable Growth",
+          "description": "We develop projects that create lasting economic, social, and environmental value for communities.",
+          "icon": "TrendingUp"
+        }
+      ],
+      "impact": {
+        "title": "Entrepreneurial Action for a Better World",
+        "description": "At Enactus Alexandria University, we believe in the power of business to transform lives. Our student teams develop and implement entrepreneurial projects that empower people to improve their livelihoods in an economically, socially, and environmentally sustainable way.",
+        "stats": [{ "number": "10+", "label": "Years of Impact" }, { "number": "5K+", "label": "Lives Impacted" }],
+        "quote": "A head for business. A heart for the world."
+      }
+    },
+    "project": {
+      "title": "2025 Project",
+      "description": "Our flagship initiative for sustainable community development and economic empowerment.",
+      "category": "Sustainable Development",
+      "image": "/placeholder.svg?height=600&width=800&text=2025+Project",
+      "fullDescription": "The 2025 Project is our comprehensive initiative aimed at creating sustainable economic opportunities while addressing environmental challenges in local communities. Through innovative business solutions, we're working to empower underserved populations and create lasting positive change.",
+      "goal": "To create sustainable economic opportunities for 500+ families by 2025",
+      "impact": "Currently benefiting 120 families with increased income and improved living conditions",
+      "timeline": "2023-2025",
+      "objectives": [
+        "Develop eco-friendly micro-businesses in 5 communities",
+        "Provide entrepreneurship training to 200+ individuals",
+        "Create market access for locally produced goods",
+        "Implement waste management solutions",
+        "Establish a self-sustaining community development fund"
+      ],
+      "sustainability": "Our approach focuses on building self-sustaining business models that continue to generate value long after our direct involvement ends. We emphasize knowledge transfer, local ownership, and market-based solutions.",
+      "getInvolved": "There are many ways to support the 2025 Project, from mentoring and skills-based volunteering to financial contributions and partnership opportunities."
+    },
+    "testimonials": {
+      "title": "Voices of Impact",
+      "description": "Hear from our members about their experiences and the impact Enactus has had on their lives and careers.",
+      "items": [
+        {
+          "quote": "Being part of Enactus Alexandria has been transformative. I've developed leadership skills while making a real difference in my community.",
+          "name": "Ahmed Hassan",
+          "role": "Team Leader",
+          "avatar": "/placeholder.svg?height=100&width=100"
+        },
+        {
+          "quote": "Enactus gave me the opportunity to apply classroom knowledge to real-world problems. The experience has been invaluable for my career.",
+          "name": "Nour Ibrahim",
+          "role": "Project Manager",
+          "avatar": "/placeholder.svg?height=100&width=100"
+        },
+        {
+          "quote": "The mentorship and support I received through Enactus helped me grow both personally and professionally. It's more than just a student organization.",
+          "name": "Layla Mahmoud",
+          "role": "Marketing Lead",
+          "avatar": "/placeholder.svg?height=100&width=100"
+        }
+      ],
+      "cta": {
+        "title": "Join Our Community of Changemakers",
+        "description": "Become part of a global network of student, academic and business leaders who are transforming lives and shaping a better, more sustainable world.",
+        "buttons": [
+          { "text": "Apply Now", "link": "/join", "primary": true },
+          { "text": "Contact Us", "link": "/contact", "primary": false }
+        ],
+        "image": "/placeholder.svg?height=600&width=800"
+      }
+    },
+    "partners": {
+      "title": "Our Partners",
+      "description": "We collaborate with leading organizations and businesses to create meaningful impact and drive change.",
+      "logos": [
+        "/placeholder.svg?height=80&width=160&text=Partner 1",
+        "/placeholder.svg?height=80&width=160&text=Partner 2",
+        "/placeholder.svg?height=80&width=160&text=Partner 3",
+        "/placeholder.svg?height=80&width=160&text=Partner 4",
+        "/placeholder.svg?height=80&width=160&text=Partner 5",
+        "/placeholder.svg?height=80&width=160&text=Partner 6",
+        "/placeholder.svg?height=80&width=160&text=Partner 7",
+        "/placeholder.svg?height=80&width=160&text=Partner 8",
+        "/placeholder.svg?height=80&width=160&text=Partner 9",
+        "/placeholder.svg?height=80&width=160&text=Partner 10"
+      ],
+      "cta": {
+        "title": "Become a Partner",
+        "description": "Join us in our mission to create a better world through entrepreneurial action. Partner with Enactus Alexandria University to support student innovation and community impact.",
+        "button": { "text": "Partner With Us", "link": "/contact" }
+      }
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "Our Story",
+      "description": "Enactus Alexandria University was founded with a vision to empower students to use entrepreneurial action to improve the quality of life for people in need. Since our establishment, we've been committed to creating sustainable solutions for our community.",
+      "image": "/placeholder.svg?height=600&width=800"
+    },
+    "timeline": [
+      {
+        "year": "2010",
+        "title": "Foundation",
+        "description": "Enactus Alexandria University was established by a group of passionate students with a vision to create positive change through entrepreneurial action."
+      },
+      {
+        "year": "2012",
+        "title": "First National Competition",
+        "description": "Our team participated in the Enactus Egypt National Competition for the first time, presenting our initial projects and gaining valuable experience."
+      },
+      {
+        "year": "2015",
+        "title": "First Major Project",
+        "description": "Launched our first major sustainable project, which focused on empowering local artisans through business training and market access."
+      },
+      {
+        "year": "2017",
+        "title": "National Recognition",
+        "description": "Received national recognition for our innovative approach to solving community challenges through entrepreneurship."
+      },
+      {
+        "year": "2019",
+        "title": "International Representation",
+        "description": "Represented Egypt at the Enactus World Cup, showcasing our projects on a global stage and connecting with teams from around the world."
+      },
+      {
+        "year": "2022",
+        "title": "Expansion & Growth",
+        "description": "Expanded our team to over 100 active members and launched multiple high-impact projects addressing various social and environmental challenges."
+      },
+      {
+        "year": "Present",
+        "title": "Continuing the Journey",
+        "description": "Today, we continue to innovate and create sustainable solutions for our community, empowering both our members and beneficiaries."
+      }
+    ],
+    "values": [
+      {
+        "title": "Integrity",
+        "description": "We act with honesty, transparency, and ethical behavior in all our endeavors.",
+        "icon": "Target"
+      },
+      {
+        "title": "Passion",
+        "description": "We approach challenges with enthusiasm and dedication, driven by our commitment to create positive change.",
+        "icon": "Heart"
+      },
+      {
+        "title": "Collaboration",
+        "description": "We believe in the power of teamwork and partnership to achieve greater impact.",
+        "icon": "Users"
+      },
+      {
+        "title": "Innovation",
+        "description": "We continuously seek creative and sustainable solutions to address social challenges.",
+        "icon": "Lightbulb"
+      }
+    ],
+    "impact": {
+      "title": "Our Impact",
+      "description": "Through our projects and initiatives, we've made a significant impact on our community and beyond.",
+      "stats": [
+        { "number": "15+", "label": "Projects Implemented" },
+        { "number": "5,000+", "label": "Lives Impacted" },
+        { "number": "100+", "label": "Team Members" }
+      ],
+      "cta": {
+        "title": "Join Our Mission",
+        "description": "We're always looking for passionate individuals to join our team and contribute to our mission of creating a better world through entrepreneurial action.",
+        "buttons": [
+          { "text": "Apply to Join", "link": "/join", "primary": true },
+          { "text": "Explore Our Project", "link": "/#project", "primary": false }
+        ],
+        "image": "/placeholder.svg?height=600&width=800"
+      }
+    }
+  },
+  "team": {
+    "hero": {
+      "title": "Our Team",
+      "description": "Meet the passionate individuals behind Enactus Alexandria University. Our diverse team of students, faculty advisors, and business leaders work together to create positive change through entrepreneurial action."
+    },
+    "leadership": [
+      {
+        "name": "Ahmed Ibrahim",
+        "role": "President",
+        "bio": "Ahmed leads our team with a passion for social entrepreneurship and sustainable development.",
+        "image": "/placeholder.svg?height=400&width=400",
+        "linkedin": "https://linkedin.com",
+        "email": "ahmed@enactusalex.org"
+      },
+      {
+        "name": "Nour El-Din",
+        "role": "Vice President",
+        "bio": "Nour brings extensive experience in project management and community development.",
+        "image": "/placeholder.svg?height=400&width=400",
+        "linkedin": "https://linkedin.com",
+        "email": "nour@enactusalex.org"
+      },
+      {
+        "name": "Dr. Laila Hassan",
+        "role": "Faculty Advisor",
+        "bio": "Dr. Laila provides guidance and mentorship to our team, with expertise in business and economics.",
+        "image": "/placeholder.svg?height=400&width=400",
+        "linkedin": "https://linkedin.com",
+        "email": "laila@enactusalex.org"
+      }
+    ],
+    "departments": [
+      {
+        "id": "projects",
+        "name": "Projects",
+        "members": [
+          {
+            "name": "Sara Ahmed",
+            "role": "Project Manager",
+            "image": "/placeholder.svg?height=300&width=300",
+            "linkedin": "https://linkedin.com"
+          },
+          {
+            "name": "Omar Khaled",
+            "role": "Project Coordinator",
+            "image": "/placeholder.svg?height=300&width=300",
+            "linkedin": "https://linkedin.com"
+          },
+          {
+            "name": "Yasmin Mohamed",
+            "role": "Project Developer",
+            "image": "/placeholder.svg?height=300&width=300",
+            "linkedin": "https://linkedin.com"
+          },
+          {
+            "name": "Karim Mahmoud",
+            "role": "Project Developer",
+            "image": "/placeholder.svg?height=300&width=300",
+            "linkedin": "https://linkedin.com"
+          }
+        ]
+      },
+      {
+        "id": "marketing",
+        "name": "Marketing",
+        "members": [
+          {
+            "name": "Hana Ibrahim",
+            "role": "Marketing Director",
+            "image": "/placeholder.svg?height=300&width=300",
+            "linkedin": "https://linkedin.com"
+          },
+          {
+            "name": "Youssef Ali",
+            "role": "Social Media Specialist",
+            "image": "/placeholder.svg?height=300&width=300",
+            "linkedin": "https://linkedin.com"
+          },
+          {
+            "name": "Nada Hassan",
+            "role": "Content Creator",
+            "image": "/placeholder.svg?height=300&width=300",
+            "linkedin": "https://linkedin.com"
+          }
+        ]
+      },
+      {
+        "id": "finance",
+        "name": "Finance",
+        "members": [
+          {
+            "name": "Mostafa Samir",
+            "role": "Finance Director",
+            "image": "/placeholder.svg?height=300&width=300",
+            "linkedin": "https://linkedin.com"
+          },
+          {
+            "name": "Rana Adel",
+            "role": "Financial Analyst",
+            "image": "/placeholder.svg?height=300&width=300",
+            "linkedin": "https://linkedin.com"
+          }
+        ]
+      },
+      {
+        "id": "hr",
+        "name": "Human Resources",
+        "members": [
+          {
+            "name": "Amira Salah",
+            "role": "HR Director",
+            "image": "/placeholder.svg?height=300&width=300",
+            "linkedin": "https://linkedin.com"
+          },
+          {
+            "name": "Tarek Nour",
+            "role": "Recruitment Specialist",
+            "image": "/placeholder.svg?height=300&width=300",
+            "linkedin": "https://linkedin.com"
+          },
+          {
+            "name": "Dina Fouad",
+            "role": "Training Coordinator",
+            "image": "/placeholder.svg?height=300&width=300",
+            "linkedin": "https://linkedin.com"
+          }
+        ]
+      }
+    ]
+  },
+  "events": {
+    "hero": {
+      "title": "Events",
+      "description": "Stay updated with our latest events, workshops, and activities. Join us to learn, network, and make a difference in our community."
+    },
+    "featured": {
+      "title": "Annual Enactus Conference 2023",
+      "description": "Join us for our annual conference where we'll showcase our projects, share insights, and connect with industry leaders and fellow changemakers.",
+      "date": "October 15, 2023",
+      "time": "9:00 AM - 5:00 PM",
+      "location": "Alexandria University Conference Hall",
+      "image": "/placeholder.svg?height=600&width=800&text=Annual+Conference"
+    },
+    "upcoming": [
+      {
+        "id": 1,
+        "title": "Entrepreneurship Workshop",
+        "description": "Learn the fundamentals of entrepreneurship and how to develop your business ideas.",
+        "date": "November 5, 2023",
+        "time": "2:00 PM - 4:00 PM",
+        "location": "Business Faculty, Room 302",
+        "image": "/placeholder.svg?height=400&width=600&text=Workshop"
+      },
+      {
+        "id": 2,
+        "title": "Project Showcase",
+        "description": "Discover our current projects and learn how you can get involved.",
+        "date": "November 15, 2023",
+        "time": "3:00 PM - 6:00 PM",
+        "location": "University Main Hall",
+        "image": "/placeholder.svg?height=400&width=600&text=Showcase"
+      },
+      {
+        "id": 3,
+        "title": "Networking Event",
+        "description": "Connect with alumni, business leaders, and fellow students.",
+        "date": "December 1, 2023",
+        "time": "5:00 PM - 7:00 PM",
+        "location": "Alexandria Business Hub",
+        "image": "/placeholder.svg?height=400&width=600&text=Networking"
+      }
+    ],
+    "past": [
+      {
+        "id": 1,
+        "title": "Annual Recruitment Drive",
+        "date": "September 2023",
+        "image": "/placeholder.svg?height=300&width=400&text=Recruitment"
+      },
+      {
+        "id": 2,
+        "title": "Community Impact Day",
+        "date": "August 2023",
+        "image": "/placeholder.svg?height=300&width=400&text=Impact+Day"
+      },
+      {
+        "id": 3,
+        "title": "Leadership Training",
+        "date": "July 2023",
+        "image": "/placeholder.svg?height=300&width=400&text=Training"
+      },
+      {
+        "id": 4,
+        "title": "Project Presentation",
+        "date": "June 2023",
+        "image": "/placeholder.svg?height=300&width=400&text=Presentation"
+      },
+      {
+        "id": 5,
+        "title": "Alumni Meetup",
+        "date": "May 2023",
+        "image": "/placeholder.svg?height=300&width=400&text=Alumni"
+      },
+      {
+        "id": 6,
+        "title": "Entrepreneurship Summit",
+        "date": "April 2023",
+        "image": "/placeholder.svg?height=300&width=400&text=Summit"
+      }
+    ]
+  },
+  "contact": {
+    "hero": {
+      "title": "Get In Touch",
+      "description": "Have questions or want to collaborate? Reach out to us and we'll get back to you as soon as possible."
+    },
+    "form": {
+      "fields": [
+        { "name": "name", "label": "Full Name", "type": "text", "required": true },
+        { "name": "email", "label": "Email Address", "type": "email", "required": true },
+        {
+          "name": "reason",
+          "label": "Reason for Contact",
+          "type": "select",
+          "required": true,
+          "options": [
+            { "value": "inquiry", "label": "General Inquiry" },
+            { "value": "partnerships", "label": "Partnerships" },
+            { "value": "joining", "label": "Joining Enactus" },
+            { "value": "other", "label": "Other" }
+          ]
+        },
+        { "name": "message", "label": "Message", "type": "textarea", "required": true }
+      ]
+    },
+    "info": {
+      "location": {
+        "title": "Our Location",
+        "address": "Faculty of Commerce, Alexandria University\nEl-Shatby, Alexandria, Egypt"
+      },
+      "email": {
+        "title": "Email Us",
+        "address": "info@enactusalex.org"
+      },
+      "phone": {
+        "title": "Call Us",
+        "number": "+20 123 456 7890"
+      },
+      "hours": {
+        "title": "Office Hours",
+        "schedule": "Sunday - Thursday: 9:00 AM - 5:00 PM\nFriday - Saturday: Closed"
+      },
+      "social": [
+        { "platform": "Facebook", "url": "https://facebook.com", "color": "#1877F2" },
+        { "platform": "Instagram", "url": "https://instagram.com", "color": "#E4405F" },
+        { "platform": "Twitter", "url": "https://twitter.com", "color": "#1DA1F2" },
+        { "platform": "LinkedIn", "url": "https://linkedin.com", "color": "#0A66C2" }
+      ]
+    }
+  },
+  "join": {
+    "hero": {
+      "title": "Join Our Team",
+      "description": "Become part of a community of changemakers who are using entrepreneurial action to create a better world. Apply to join Enactus Alexandria University today."
+    },
+    "form": {
+      "fields": [
+        { "name": "firstName", "label": "First Name", "type": "text", "required": true },
+        { "name": "lastName", "label": "Last Name", "type": "text", "required": true },
+        { "name": "email", "label": "Email Address", "type": "email", "required": true },
+        { "name": "phone", "label": "Phone Number", "type": "tel", "required": true },
+        { "name": "faculty", "label": "Faculty/College", "type": "text", "required": true },
+        {
+          "name": "year",
+          "label": "Academic Year",
+          "type": "select",
+          "required": true,
+          "options": [
+            { "value": "freshman", "label": "Freshman" },
+            { "value": "sophomore", "label": "Sophomore" },
+            { "value": "junior", "label": "Junior" },
+            { "value": "senior", "label": "Senior" },
+            { "value": "graduate", "label": "Graduate" }
+          ]
+        },
+        {
+          "name": "department",
+          "label": "Preferred Department",
+          "type": "select",
+          "required": true,
+          "options": [
+            { "value": "projects", "label": "Projects" },
+            { "value": "marketing", "label": "Marketing" },
+            { "value": "finance", "label": "Finance" },
+            { "value": "hr", "label": "Human Resources" },
+            { "value": "it", "label": "IT & Technical" },
+            { "value": "pr", "label": "Public Relations" }
+          ]
+        },
+        { "name": "experience", "label": "Relevant Experience", "type": "textarea", "required": false },
+        { "name": "motivation", "label": "Motivation", "type": "textarea", "required": true },
+        { "name": "cv", "label": "Upload CV/Resume", "type": "file", "required": true, "accept": ".pdf,.doc,.docx" }
+      ]
+    }
+  },
+  "footer": {
+    "about": "Entrepreneurial action for a better world. We're a community of student, academic and business leaders committed to using the power of entrepreneurial action to transform lives.",
+    "quickLinks": [
+      { "name": "Home", "path": "/" },
+      { "name": "About Us", "path": "/about" },
+      { "name": "2025 Project", "path": "/#project" },
+      { "name": "Events", "path": "/events" },
+      { "name": "Our Team", "path": "/team" },
+      { "name": "Join Us", "path": "/join" }
+    ],
+    "contact": {
+      "address": "Faculty of Commerce, Alexandria University, Alexandria, Egypt",
+      "email": "info@enactusalex.org",
+      "phone": "+20 123 456 7890"
+    },
+    "social": [
+      { "platform": "Facebook", "url": "https://facebook.com" },
+      { "platform": "Instagram", "url": "https://instagram.com" },
+      { "platform": "Twitter", "url": "https://twitter.com" },
+      { "platform": "LinkedIn", "url": "https://linkedin.com" }
+    ],
+    "newsletter": {
+      "description": "Subscribe to our newsletter to stay updated with our latest news and events."
+    },
+    "copyright": "© {year} Enactus Alexandria University. All rights reserved.",
+    "credits": {
+      "text": "Powered by",
+      "company": "illustraV",
+      "url": "https://illustrav.com",
+      "logo": "/images/illustrav-logo.svg"
+    }
+  }
+}
+
